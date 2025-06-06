@@ -4,7 +4,7 @@
   "antilink": {},
   "antibadword": {},
   "warnings": {},
-  "sudo": [],
+  "sudo": [True],
   "welcome": {},
   "goodbye": {},
   "chatbot": {},
